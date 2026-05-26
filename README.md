@@ -243,13 +243,3 @@ Open the application at `http://localhost:4200`.
 
 - Backend README: `Hospital_Appointment_Management_System_Backend/README.md`
 - Frontend README: `hospital-appointment-management-system-frontend/README.md`
-
-## Notes
-
-- The API Gateway centralizes authentication and routing.
-- Each backend service owns its own database schema and business logic.
-- The Angular frontend connects to the backend through the gateway only.
-
-## License
-
-This repository does not currently specify a license. Add one if you want to make the project open source.
